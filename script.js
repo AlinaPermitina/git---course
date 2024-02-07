@@ -1,0 +1,1 @@
+document.body.InnerHTML = '<h1>Hello from Javascript</h1>'
